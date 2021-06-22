@@ -1,2 +1,2 @@
 # fpoc
-Fingerprint matching based on Phase Only Corellation
+Fingerprint Matching based on Phase Only Corellation
